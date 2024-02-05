@@ -1,0 +1,3 @@
+Belajar tentang GITHUB
+-nanti akan saya masukkan project UAS saya
+-yang terdiri dari HTML,CSS,JAVASCRIPT
